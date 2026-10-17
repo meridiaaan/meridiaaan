@@ -18,6 +18,6 @@
     <text x="64" y="98" font-size="47" font-weight="700" fill="#ffffff" letter-spacing="-1.2">HR Manager</text>
     <text x="65" y="140" font-size="20" fill="#aab6c2">найм, онбординг, HR-процессы · агентства заказной разработки</text>
     <text x="65" y="196" font-size="17" fill="#74828f">16 закрытых позиций · медиана 24 дня · 450+ интервью</text>
-    <text x="905" y="161" font-size="86" font-weight="700" fill="#ff3333" text-anchor="middle">CV</text>
+    <text x="905" y="165" font-size="86" font-weight="700" fill="#ff3333" text-anchor="middle">CV</text>
   </g>
 </svg>
