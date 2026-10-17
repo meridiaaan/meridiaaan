@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Наталья Егурнова — HR Manager" width="100%">
+  <a href="https://meridiaaan.github.io/cv/"><img src="./banner.svg" alt="Наталья Егурнова — HR Manager" width="100%"></a>
 </div>
 
 <br>
