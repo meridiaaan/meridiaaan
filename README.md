@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://meridiaaan.github.io/cv/"><img src="./banner.svg" alt="HR Manager — резюме" width="100%"></a>
+  <a href="https://meridiaaan.github.io/cv/"><img src="./hr-banner.svg" alt="HR Manager — резюме" width="100%"></a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://meridiaaan.github.io/cv/"><img src="./cv-button.svg" alt="Смотреть резюме" height="54"></a>
+  <a href="https://meridiaaan.github.io/cv/"><img src="./hr-button.svg" alt="Смотреть резюме" height="54"></a>
 </div>
 
 <br>
