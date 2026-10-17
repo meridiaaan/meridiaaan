@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Наталья Егурнова — HR Manager">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141a21"/>
+      <stop offset="1" stop-color="#0a0d11"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect width="1000" height="260" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect x="0" y="0" width="10" height="260" fill="#ff3333"/>
+    <circle cx="905" cy="130" r="150" fill="#ff3333" opacity="0.07"/>
+    <circle cx="905" cy="130" r="96" fill="#ff3333" opacity="0.09"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif">
+    <text x="64" y="98" font-size="47" font-weight="700" fill="#ffffff" letter-spacing="-1.2">Наталья Егурнова</text>
+    <text x="65" y="140" font-size="20" fill="#aab6c2">HR Manager · агентства заказной разработки</text>
+    <text x="65" y="196" font-size="17" fill="#74828f">16 закрытых позиций · медиана 24 дня · 450+ интервью</text>
+    <text x="878" y="152" font-size="86" font-weight="700" fill="#ff3333" text-anchor="middle">CV</text>
+  </g>
+</svg>

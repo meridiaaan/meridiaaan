@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272" height="54" viewBox="0 0 272 54" role="img" aria-label="Смотреть резюме">
+  <rect width="272" height="54" rx="27" ry="27" fill="#ff3333"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif">
+    <text x="136" y="34" font-size="17" font-weight="600" fill="#ffffff" text-anchor="middle">Смотреть резюме →</text>
+  </g>
+</svg>
